@@ -47,7 +47,7 @@ li[aria-checked="true"] {
 
 button {
   border: none;
-  border-radius: 10px;
+  border-radius: 15px;
   padding: 5px 15px;
   font-weight: bold;
   background: rgb(241, 233, 248);
